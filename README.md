@@ -1,4 +1,4 @@
-<h1>Clone do Spotify<h1>
+<h1>Clone do Spotify</h1>
 
 ![Clone Spotify](https://user-images.githubusercontent.com/98194579/184312783-864db8c3-5b66-487d-ae92-c9a902400899.png)
 
