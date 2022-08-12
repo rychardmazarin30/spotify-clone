@@ -6,5 +6,5 @@
 
 <p>Esse é o meu clone do spotify que desenvolvi usando HTML e CSS.</p>
 
-<h2>Desenvolvido por Rychard Mazarin</h2>
+<h4>Desenvolvido por Rychard Mazarin</h4>
 
